@@ -1,8 +1,11 @@
-<h1 align="center"> Hi, I'm Lewis Murphy </h1>
-<h3 align="center"> Welcome to my github profile! </h3>
+![](header.png)
+
+<h1 align="center"> Welcome to my github profile! </h1>
+
+
  
 
-### About ME
+### About Me
 
 - Computer Science student at The University of Manchester
 
