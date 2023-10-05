@@ -32,13 +32,15 @@
 ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Windows 11](https://img.shields.io/badge/Windows%2011-999999?style=for-the-badge&logo=windows11&logoColor=0078D4)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premier Pro](https://img.shields.io/badge/Premier%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-%230000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
+![Premier Pro](https://img.shields.io/badge/Premier%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)&nbsp;
+![Audacity](https://img.shields.io/badge/Audacity-%230000CC?style=for-the-badge&logo=audacity&logoColor=white)&nbsp;
+![Unsplash](https://img.shields.io/badge/unsplash-999999?style=for-the-badge&logo=Unsplash&logoColor=000000)
 
 
 ### Stats
