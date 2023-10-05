@@ -1,8 +1,6 @@
-<div id="header">
-
-# Lewis Murphy
-Welcome to my github profile!
-
+<h1 align="center"> Hi, I'm Lewis Murphy </h1>
+<h3 align="center"> Welcome to my github profile! </h3>
+ 
 
 ### About ME
 
@@ -18,7 +16,7 @@ Welcome to my github profile!
 <a href="mailto:lewismurphy0402@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -38,6 +36,11 @@ Welcome to my github profile!
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premier Pro](https://img.shields.io/badge/Premier%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-%230000CC?style=for-the-badge&logo=audacity&logoColor=white)
+
+
+### Stats
+| <a href="https://github.com/Defalt0402"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Defalt0402&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Lewis' Github Stats" /></a> | <a href="https://github.com/Defalt0402"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defalt0402&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
